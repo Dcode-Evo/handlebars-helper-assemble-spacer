@@ -1,0 +1,26 @@
+{
+  "name": "handlebars-helper-assemble-spacer",
+  "version": "1.0.0",
+  "description": "For building html emails. Adds an empty row of a defined height.",
+  "main": "spacer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dcode-Evo/handlebars-helper-assemble-spacer.git"
+  },
+  "keywords": [
+    "handlebars",
+    "assemble",
+    "helper",
+    "html",
+    "email"
+  ],
+  "author": "Aleksei Polechin (http://alek.be)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dcode-Evo/handlebars-helper-assemble-spacer/issues"
+  },
+  "homepage": "https://github.com/Dcode-Evo/handlebars-helper-assemble-spacer#readme"
+}
